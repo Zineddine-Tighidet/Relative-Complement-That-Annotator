@@ -4,9 +4,9 @@ This repository is attached to this paper: <b><i>Fine-tuning a Subtle Parsing Di
 
 It is available at:
 <ul>
-  <li>archaiv link</li>
-  <li>aclweb link</li>
-  <li>paper with code link</li>
+  <li>Arxiv link: <a href="https://arxiv.org/pdf/2212.02591.pdf">https://arxiv.org/pdf/2212.02591.pdf</a></li>
+  <li>ACL anthology link: <a href="https://aclanthology.org/venues/alta/">https://aclanthology.org/venues/alta/</a></li>
+  <li>Papers with code link: <a href="https://paperswithcode.com/paper/fine-tuning-a-subtle-parsing-distinction">https://paperswithcode.com/paper/fine-tuning-a-subtle-parsing-distinction</a></li>
 </ul>
 
 For questions and bug reports please contact Zineddine Tighidet (zineddine.tighidet[at]u-paris.fr).
