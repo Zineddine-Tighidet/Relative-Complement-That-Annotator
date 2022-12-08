@@ -1,6 +1,6 @@
 # Relative-Complement-That-Annotator
 
-This repository is attached to this paper: <b><i>Fine-tuning a Subtle Parsing Distinction: the Case of Postnominal "that" in Noun Complement Clauses vs. Relative Clauses</i></b>, please cite the paper if your use this code.
+This repository is attached to this paper: <b><i>Fine-tuning a Subtle Parsing Distinction Using a Probabilistic Decision Tree: the Case of Postnominal "that" in Noun Complement Clauses vs. Relative Clauses</i></b>, please cite the paper if your use this code.
 
 It is available at:
 <ul>
