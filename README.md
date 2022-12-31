@@ -11,7 +11,7 @@ It is available at:
 
 For questions and bug reports please contact Zineddine Tighidet (zineddine.tighidet[at]etu.u-paris.fr).
 
-This directory is a work in progress and will be completed this month of December at the latest.
+This directory is a work in progress and will be completed this month of January at the latest. The algorithms are already available on the *deps_emulator.py* and *MAIN_NOTEBOOK.ipynb* files.
 
 
 # Content
